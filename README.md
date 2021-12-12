@@ -12,5 +12,5 @@ CNN based face detector from dlib and enhances the accuracy by using image pyram
 [Watch Video]
 ========
 -------------
-[![Watch the video]
+[![Watch the video](https://github.com/Samarth-991/Face-Detection/blob/master/Video_demo/Demo.mp4)
 
